@@ -1,0 +1,2 @@
+python ProtoDeObfGui.py
+pause
